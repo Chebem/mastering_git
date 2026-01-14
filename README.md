@@ -5,6 +5,5 @@
 - To push your local project to Github you will need to link your local repository to a remote repository.
 ### What is a --Remote--
 - i am adding from  'feature-branch'
-- i am adding from  'master'
-- check what
-- Yo chebem here
+- --Remote-- is a link between your local repository and a remote repository on the internet. 
+#### Dererk updated the task description #### 
